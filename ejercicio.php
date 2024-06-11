@@ -1,13 +1,10 @@
 <?php
-
 		$x = $_POST['Caja1'];
 		$y = $_POST['Caja2'];
 		$z = $_POST['Caja3'];
-
 	$orden1=0;
 	$orden2=0;
-	$orden3=0;
-	
+	$orden3=0;	
 	if(($x < $y) && ($x < $z))
 	{
 		if($y > $z)
@@ -47,6 +44,5 @@
 		}
 		$orden1 = $z;
 	}
-
  echo "<center>El orden correcto es $orden1, $orden2 y $orden3</center>";
 ?>
