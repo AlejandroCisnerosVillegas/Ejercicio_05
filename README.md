@@ -1,3 +1,3 @@
-# Ejercicio 05 
-## _Ordene Tres Números Ingresados por el Teclado en HTML y PHP_
-Un programa que ordene tres números enteros ingresados por el teclado.
+# Ordenamiento de Tres Números
+## _Área: Actividades_
+Esta actividad web implementa una aplicación interactiva que permite a los usuarios ingresar tres números y ordenarlos de manera ascendente. Utiliza HTML y CSS para la interfaz de usuario y PHP para procesar y ordenar los números ingresados.
