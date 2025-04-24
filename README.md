@@ -16,7 +16,7 @@ El script PHP procesa los datos ingresados en el formulario:
 
 Esta actividad demuestra habilidades en el desarrollo de aplicaciones web interactivas utilizando tecnologías de front-end y back-end, ofreciendo una funcionalidad útil y una interfaz de usuario atractiva y fácil de usar.
 
-**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_05.com](https://alejandrovillegas.net/projects/exercise-05/index.html)
+**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_05.com](https://www.alejandrovillegas.dev/projects/exercise-05/index.html)
 
 # 📌 Información de la Actividad
 
@@ -28,7 +28,7 @@ Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Fecha de Desarrollo**: 23 de mayo de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 ## 🔧 Guía de Instalación y Configuración de la Actividad
 
